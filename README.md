@@ -1,3 +1,4 @@
+**STILL A WORK IN PROGRESS** <-- I will let you know :)
 Counter-Strike: Global Offensive Multi Script
 =============================================================
 
