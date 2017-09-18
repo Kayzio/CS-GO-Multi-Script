@@ -1,4 +1,5 @@
-**STILL A WORK IN PROGRESS** <-- I will let you know :)
+**STILL A WORK IN PROGRESS** <-- I will let you know :) |
+------------------------------------------------------- |
 
 Counter-Strike: Global Offensive Multi Script
 =============================================================
@@ -26,7 +27,10 @@ Features                                                                        
 **Auto fire**                                                                                                            |
 **Overlay Menu** (This includes everything you need that would be on the regular GUI, except for it is over your game)   |
 
+
+
 The program includes a "Key Bindings" tab for all controls.
 
 
--------------=========Kayzio Groups=========-----------------
+
+Created by Kayzio Groups.
