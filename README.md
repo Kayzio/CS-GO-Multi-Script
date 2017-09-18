@@ -6,7 +6,7 @@ Counter-Strike: Global Offensive Multi Script
 
 Purpose
 -------------------------------------------------------------
-This is not to be used in game (maybe deathmatch only ^^), but
+This is not to be used in game (maybe deathmatch only :stuck_out_tongue:), but
 rather is meant to have some with the features that Java provides.
 I included all source so that you can see what I used. This is a great
 project to learn about global event listener, JRobot, JavaFX, etc...
@@ -18,7 +18,7 @@ don't really provide an unfair advantage in my opinion.
 
 Either way, enjoy :)
 
---> Features <--                                                                                                         |
+:star: Features :star:                                                                                                   |
 ----------------------------------------                                                                                 |
 **Crosshair overlay** (You can change the apperance and color)	                                                         |
 **No recoil** (The sensitivity is still being worked on)                                                                 |
@@ -37,4 +37,4 @@ The program includes a "Key Bindings" tab for all controls.
 
 
 
-**Created by Kayzio Groups.**
+:v: **Created by Kayzio Groups.** :v:
