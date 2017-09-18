@@ -29,6 +29,10 @@ Features                                                                        
 
 
 
+![picture alt](./res/images/crosshair-tab.png "Multi Scripts Interface Example")
+
+
+
 The program includes a "Key Bindings" tab for all controls.
 
 
