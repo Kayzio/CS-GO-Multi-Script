@@ -17,14 +17,14 @@ don't really provide an unfair advantage in my opinion.
 
 Either way, enjoy :)
 
-Features                                                                                                             |
------------------------------------------------------------------                                                    |
--Crosshair overlay (You can change the apperance and color)	                                                         |
--No recoil (The sensitivity is still being worked on)                                                                |
--Trigger bot (looks for color differences at the middle pixel of your screen)                                        |
--Bunny hop (You probably already know how this works...)                                                             |
--Auto fire                                                                                                           |
--Overlay Menu (This includes everything you need that would be on the regular GUI, except for it is over your game)  |
+# Features #                                                                                                             |
+------------------------------------------------------------------------------------------------------------------------ |
+-**Crosshair overlay** (You can change the apperance and color)	                                                         |
+-**No recoil** (The sensitivity is still being worked on)                                                                |
+-**Trigger bot** (looks for color differences at the middle pixel of your screen)                                        |
+-**Bunny hop** (You probably already know how this works...)                                                             |
+-**Auto fire**                                                                                                           |
+-**Overlay Menu** (This includes everything you need that would be on the regular GUI, except for it is over your game)  |
 
 The program includes a "Key Bindings" tab for all controls.
 
