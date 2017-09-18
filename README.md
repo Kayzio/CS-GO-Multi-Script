@@ -17,8 +17,8 @@ don't really provide an unfair advantage in my opinion.
 
 Either way, enjoy :)
 
-# Features #                                                                                                             |
------------------------------------------------------------------------------------------------------------------------- |
+Features                                                                                                                 |
+======================================================================================================================== |
 -**Crosshair overlay** (You can change the apperance and color)	                                                         |
 -**No recoil** (The sensitivity is still being worked on)                                                                |
 -**Trigger bot** (looks for color differences at the middle pixel of your screen)                                        |
