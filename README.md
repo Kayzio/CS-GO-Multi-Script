@@ -17,7 +17,7 @@ don't really provide an unfair advantage in my opinion.
 
 Either way, enjoy :)
 
-:star: Features :star:                                                                                                   |
+--> Features <--                                                                                                         |
 ----------------------------------------                                                                                 |
 **Crosshair overlay** (You can change the apperance and color)	                                                         |
 **No recoil** (The sensitivity is still being worked on)                                                                 |
@@ -27,6 +27,7 @@ Either way, enjoy :)
 **Overlay Menu** (This includes everything you need that would be on the regular GUI, except for it is over your game)   |
 
 **Here is an example picture**
+
 ![picture alt](./res/images/crosshair-tab.png "Multi Scripts Interface Example")
 
 The program includes a "Key Bindings" tab for all controls.
