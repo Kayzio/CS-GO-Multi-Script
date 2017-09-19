@@ -1,12 +1,11 @@
-**STILL A WORK IN PROGRESS** <-- I will let you know :) |
-------------------------------------------------------- |
+**Current stages of this application are in BETA**
 
-Counter-Strike: Global Offensive Multi Script
+CS:GO Multi Script
 =============================================================
 
 Purpose
 -------------------------------------------------------------
-This is not to be used in game (maybe deathmatch only :stuck_out_tongue:), but
+This is not to be used in game (maybe deathmatch only :P), but
 rather is meant to have some with the features that Java provides.
 I included all source so that you can see what I used. This is a great
 project to learn about global event listener, JRobot, JavaFX, etc...
@@ -27,14 +26,9 @@ Either way, enjoy :)
 **Auto fire**                                                                                                            |
 **Overlay Menu** (This includes everything you need that would be on the regular GUI, except for it is over your game)   |
 
-
-
+**Here is an example picture**
 ![picture alt](./res/images/crosshair-tab.png "Multi Scripts Interface Example")
-
-
 
 The program includes a "Key Bindings" tab for all controls.
 
-
-
-:v: **Created by Kayzio Groups.** :v:
+**Created by Kayzio Groups.**
