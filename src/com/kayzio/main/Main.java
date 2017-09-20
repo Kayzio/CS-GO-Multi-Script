@@ -3,11 +3,11 @@ package com.kayzio.main;
 class Main {
 
 	public Main(){
-		printFag();
+		log("This is where the CS:GO Multi Script code will go.");
 	}
 
-	void printFag(){
-		System.out.println("Fag");
+	void log(String string){
+		System.out.println(string);
 	}
 
 	public static void main(String[] args){
