@@ -11,7 +11,8 @@ class Main {
 	}
 
 	public static void main(String[] args){
-		Main main = new Main();
+		//Main main = new Main();
+		System.out.println("This is to test the new git commands for atom");
 	}
 
 }
